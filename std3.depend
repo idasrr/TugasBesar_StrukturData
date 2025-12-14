@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1765718056 source:c:\users\ida sri rahayu\onedrive\documents\std3\cotify.cpp
+	"cotify.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1765718046 c:\users\ida sri rahayu\onedrive\documents\std3\cotify.h
+	<iostream>
+
+1765714861 source:c:\users\ida sri rahayu\onedrive\documents\std3\main.cpp
+	"cotify.h"
+
