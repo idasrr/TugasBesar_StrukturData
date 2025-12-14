@@ -12,7 +12,7 @@ Ariel Furqanul Khaq - 103052300113
 
 
 
-###                                                                 🎵 Cotify - Aplikasi Pemutar Musik
+##                                                                 🎵 Cotify - Aplikasi Pemutar Musik
 ## **Deskripsi Aplikasi**
 **Cotify** adalah aplikasi music streaming berbasis console yang dikembangkan menggunakan bahasa pemrograman C++. Aplikasi ini memungkinkan pengguna untuk mengelola playlist musik pribadi, memutar lagu,melihat lagu favorit, dan mencari lagu berdasarkan berbagai kriteria. Cotify dirancang dengan struktur data linked list untuk manajemen user, lagu, dan playlist yang efisien. Aplikasi ini terinspirasi dari platform musik streaming populer seperti Spotify, dengan fitur-fitur yang disesuaikan untuk implementasi berbasis console yang user-friendly.
 
