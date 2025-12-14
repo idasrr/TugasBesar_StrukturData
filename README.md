@@ -5,8 +5,6 @@
 ###### **Windi Pramudya Wardani - 103052400006**
 ###### **Ariel Furqanul Khaq - 103052300113**
 
----
-
 **Kelas**: DS-48-02  
 **Mata Kuliah**: Struktur Data  
 **Dosen Pengampu**: Miftahul Adnan Rasyid  
