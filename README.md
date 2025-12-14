@@ -1,9 +1,9 @@
 #  TugasBesar_StrukturData
 
 👥 **Anggota Kelompok:**
-##### Ida Sri Rahayu - 103052400069
-### Windi Pramudya Wardani - 103052400006
-### Ariel Furqanul Khaq - 103052300113
+###### Ida Sri Rahayu - 103052400069
+###### Windi Pramudya Wardani - 103052400006
+###### Ariel Furqanul Khaq - 103052300113
 
 **Kelas**: DS-48-02  
 **Mata Kuliah**: Struktur Data  
