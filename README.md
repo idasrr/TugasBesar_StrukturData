@@ -1,6 +1,6 @@
 #  TugasBesar_StrukturData
 
-👥 Anggota Kelompok:
+👥 **Anggota Kelompok:**
 Ida Sri Rahayu - 103052400069
 Windi Pramudya Wardani - 103052400006
 Ariel Furqanul Khaq - 103052300113
@@ -19,12 +19,12 @@ Ariel Furqanul Khaq - 103052300113
 ---
 
 ## **Fitur-Fitur Utama**
-# 🔐 Authentication System
+### 🔐 Authentication System**
 - **Login Admin**: Akses penuh untuk manajemen sistem
 - **Login User**: Akses personal untuk setiap pengguna
 - **Register**: Pendaftaran akun baru
 
-# 🎧 Music Player
+### 🎧 Music Player
 - **Quick Play**: Putar lagu langsung dari database
 - **Playlist Player**: Putar lagu dari playlist yang tersimpan
 - **Kontrol Pemutaran**:
@@ -32,7 +32,7 @@ Ariel Furqanul Khaq - 103052300113
   - Next/Previous (untuk playlist)
   - Replay
 
-# 📝 Playlist Management
+### 📝 Playlist Management
 - **Create Playlist**: Buat playlist baru
 - **Edit Playlist**: Edit informasi playlist
 - **Delete Playlist**: Hapus playlist
@@ -41,7 +41,7 @@ Ariel Furqanul Khaq - 103052300113
 - **Sort Playlist**: Urutkan berdasarkan ID atau Abjad (A-Z)
 - **View Details**: Lihat detail lengkap playlist dan isinya
 
-# 🔍 Search & Discovery
+### 🔍 Search & Discovery
 - **Search by Title**: Cari lagu berdasarkan judul
 - **Search by Artist**: Cari lagu berdasarkan nama artis
 - **Search by Genre**: Cari lagu berdasarkan genre
@@ -49,15 +49,15 @@ Ariel Furqanul Khaq - 103052300113
 - **Search Playlist**: Cari playlist milik user
 - **Search in Playlist**: Cari lagu dalam playlist tertentu
 
-# 📊 Analytics
+### 📊 Analytics
 - **My Favorite Songs**: Lagu favorit personal berdasarkan play count
 - **Play Count Tracking**: Setiap lagu mencatat berapa kali diputar
 
-# 👤 Account Management
+### 👤 Account Management
 - **View Profile**: Lihat informasi akun
 - **Edit Profile**: Edit data personal (nama, email, negara, umur)
 
-# 👨‍💼 Admin Features
+### 👨‍💼 Admin Features
 - **User Management**:
   - View all users
   - View user details & playlists
@@ -75,7 +75,7 @@ Ariel Furqanul Khaq - 103052300113
 
 Aplikasi menggunakan **Linked List** dengan struktur:
 
-# Data Structures
+### Data Structures
 1. **List_lagu** (Doubly Linked List)
    - Menyimpan database lagu dengan navigasi dua arah
 
@@ -90,15 +90,15 @@ Aplikasi menggunakan **Linked List** dengan struktur:
 
 ---
 
-## 🚀 Cara Menjalankan Program
+## Cara Menjalankan Program
 
-# Prasyarat
+### Prasyarat
 - **Compiler C++**: MinGW (Windows), GCC (Linux/Mac), atau Code::Blocks
 - **OS**: Windows, Linux, atau MacOS
 - **RAM**: Minimal 2GB
 - **Storage**: Minimal 50MB free space
 
-# A. Menggunakan Code::Blocks
+### A. Menggunakan Code::Blocks
 1. **Download/Clone Project**
    ```bash
    git clone <repository-url>
@@ -113,7 +113,7 @@ Aplikasi menggunakan **Linked List** dengan struktur:
 4. **Run Program**
    - Klik `Build` → `Run` (atau tekan `Ctrl + F10`)
 
-# B. Menggunakan Command Line (Manual Compile)
+### B. Menggunakan Command Line (Manual Compile)
 **Windows (MinGW):**
 ```bash
 g++ -o cotify main.cpp menu.cpp user.cpp lagu.cpp
@@ -127,14 +127,14 @@ g++ -o cotify main.cpp menu.cpp user.cpp lagu.cpp
 
 ## Cara Penggunaan
 
-# 1️⃣ Login
+### 1️⃣ Login
 **Pilihan Login:**
 - **[1] Admin**: Input Username: `admin`, Password: `admin123`
 - **[2] User**: Pilih username dari daftar (windi, ariel, ida)
 - **[3] Register**: Buat akun baru
 - **[0] Exit**: Keluar aplikasi
 
-# 2️⃣ Menu User
+### 2️⃣ Menu User
 **Playlist Management:**
 - Kelola semua playlist pribadi
 - Tambah/edit/hapus playlist
@@ -149,7 +149,7 @@ g++ -o cotify main.cpp menu.cpp user.cpp lagu.cpp
 - Pilih lagu dari database
 - Langsung putar tanpa perlu playlist
 
-# 3️⃣ Music Player Controls
+### 3️⃣ Music Player Controls
 **Saat memutar lagu di Quick Play:**
 - **[S]**: Tekan S untuk Pause/Resume
 - **[Q]**: Tekan Q untukStop & Exit
@@ -161,7 +161,7 @@ g++ -o cotify main.cpp menu.cpp user.cpp lagu.cpp
 - **[S]**: Tekan S untuk Pause/Resume
 - **[Q]**: Tekan Q untuk Keluar dari pemutaran lagu
 
-# 4️⃣ Menu Admin
+### 4️⃣ Menu Admin
 **User Management:**
 - Lihat semua user
 - Lihat detail user & playlist mereka
