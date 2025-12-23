@@ -112,10 +112,6 @@ Fitur yang dapat dikembangkan di masa depan:
 - [ ] File persistence (save/load data)
 - [ ] Shuffle  mode
 - [ ] Lyrics display
-- [ ] Queue management
 - [ ] Collaborative playlists
-- [ ] Music recommendation system
-- [ ] Export/import playlist
-
 
 *"Music is life, and Cotify makes it better!"* 🎵
