@@ -45,8 +45,6 @@
 - **Search by Title**: Cari lagu berdasarkan judul
 - **Search by Artist**: Cari lagu berdasarkan nama artis
 - **Search by Genre**: Cari lagu berdasarkan genre
-- **Search by Album**: Cari lagu berdasarkan album
-- **Search Playlist**: Cari playlist milik user
 - **Search in Playlist**: Cari lagu dalam playlist tertentu
 
 ### Analytics
