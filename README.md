@@ -19,7 +19,7 @@
 ---
 
 ## Fitur-Fitur Utama
-### Authentication System**
+### Authentication System
 - **Login Admin**: Akses penuh untuk manajemen sistem
 - **Login User**: Akses personal untuk setiap pengguna
 - **Register**: Pendaftaran akun baru
