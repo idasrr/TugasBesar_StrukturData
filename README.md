@@ -49,7 +49,7 @@
 
 ### Analytics
 - **My Favorite Songs**: Lagu favorit personal berdasarkan play count
-- **Play Count Tracking**: Setiap lagu mencatat berapa kali diputar
+- **Play Count Tracking**: Mencatat berapa kali lagu diputar
 
 ### Admin Features
 - **User Management**:
